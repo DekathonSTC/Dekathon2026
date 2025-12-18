@@ -522,3 +522,8 @@ body {
     margin-top: 33px;
   }
 }
+
+
+#deka3-hero {
+  background-image: none !important;
+}
